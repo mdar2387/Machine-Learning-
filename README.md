@@ -1,5 +1,4 @@
-# Machine-Learning-
-Machine Learning Simplified Series
+# Machine-Learning
 
 # Machine Learning Simplified Series
 
