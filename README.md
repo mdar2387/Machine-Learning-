@@ -54,6 +54,7 @@ https://medium.com/@arif.mokhtar16/machine-learning-simplified-series-93dab7a23d
 
 
 Blog Link:
+
 Part1: (Introduction to NLP)
 https://medium.com/@arif.mokhtar16/nlp-in-action-talking-to-machines-84b698bbeaf3
 
