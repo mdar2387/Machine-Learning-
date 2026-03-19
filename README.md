@@ -52,6 +52,11 @@ https://medium.com/@arif.mokhtar16/machine-learning-simplified-series-cf6c472642
 Part2: (Distance Metrics Explained)
 https://medium.com/@arif.mokhtar16/machine-learning-simplified-series-93dab7a23d1c
 
+
+Blog Link:
+Part1: (Introduction to NLP)
+https://medium.com/@arif.mokhtar16/nlp-in-action-talking-to-machines-84b698bbeaf3
+
 ## Contributions
 
 Suggestions, feedback, and discussions are always welcome. The goal of this project is to continuously improve the content and make Machine Learning easier to understand.
